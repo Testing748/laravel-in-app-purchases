@@ -1,13 +1,6 @@
 {
   "name": "imdhemy/laravel-purchases",
   "description": "The top-notch Laravel receipt validator.",
-  "keywords": [
-    "laravel-in-app-purchases",
-    "google_play",
-    "app_store",
-    "in_app_purchases",
-    "laravel"
-  ],
   "homepage": "https://imdhemy.com/laravel-iap-docs",
   "license": "MIT",
   "authors": [
